@@ -36,7 +36,7 @@ class Solution {
         }
 
         ListNode tail2 = temp;
-        ListNode head3 = temp.next;
+        ListNode head3 = tail2.next;
 
         tail1.next = null;
         tail2.next = null;
