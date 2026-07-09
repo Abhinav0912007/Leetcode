@@ -36,4 +36,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhinav0912007/Leetcode/tree/master/0002-add-two-numbers) |
+| [0268-missing-number](https://github.com/Abhinav0912007/Leetcode/tree/master/0268-missing-number) |
+## Array
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Abhinav0912007/Leetcode/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Abhinav0912007/Leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Abhinav0912007/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Abhinav0912007/Leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Abhinav0912007/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
