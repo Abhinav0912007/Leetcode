@@ -1,21 +1,17 @@
-import java.util.HashSet;
+
 
 class Solution {
     public int missingNumber(int[] nums) {
-        HashSet<Integer> set = new HashSet<>();
+ int  n = nums.length;
+n = (n*(n+1))/2;
 
-        // Store all numbers in the HashSet
-        for (int num : nums) {
-            set.add(num);
-        }
+int sum = 0;
+for(int i = 0; i<nums.length;i++){
+    sum = sum +nums[i];
 
-        // Check which number from 0 to n is missing
-        for (int i = 0; i <= nums.length; i++) {
-            if (!set.contains(i)) {
-                return i;
-            }
-        }
+}
 
-        return -1; // This line will never be reached
-    }
+  return n - sum;     
+
+}
 }
