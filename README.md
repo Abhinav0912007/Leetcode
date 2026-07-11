@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Abhinav0912007/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhinav0912007/Leetcode/tree/master/0027-remove-element) |
 | [0086-partition-list](https://github.com/Abhinav0912007/Leetcode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Abhinav0912007/Leetcode/tree/master/0143-reorder-list) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Abhinav0912007/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhinav0912007/Leetcode/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/Abhinav0912007/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
