@@ -13,6 +13,6 @@ class Solution {
             return 0;
         }
         
-        return (int) rev; // Cast back to int safely
+        return (int) rev; 
     }
 }
