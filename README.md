@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Abhinav0912007/Leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Abhinav0912007/Leetcode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Abhinav0912007/Leetcode/tree/master/0143-reorder-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhinav0912007/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Abhinav0912007/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Abhinav0912007/Leetcode/tree/master/0283-move-zeroes) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhinav0912007/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhinav0912007/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhinav0912007/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Abhinav0912007/Leetcode/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhinav0912007/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Abhinav0912007/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhinav0912007/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Abhinav0912007/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhinav0912007/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Abhinav0912007/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
