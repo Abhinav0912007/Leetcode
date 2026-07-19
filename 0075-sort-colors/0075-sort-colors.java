@@ -12,7 +12,7 @@ class Solution {
             else if(nums[i]==1){
                 count2++;
             }
-            else if(nums[i]==2){
+            else {
                 count3++;
             }
 
