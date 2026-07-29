@@ -46,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Abhinav0912007/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Abhinav0912007/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/Abhinav0912007/Leetcode/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/Abhinav0912007/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Abhinav0912007/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhinav0912007/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Abhinav0912007/Leetcode/tree/master/0007-reverse-integer) |
+| [0231-power-of-two](https://github.com/Abhinav0912007/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhinav0912007/Leetcode/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/Abhinav0912007/Leetcode/tree/master/1025-divisor-game) |
 ## Array
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Abhinav0912007/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhinav0912007/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
