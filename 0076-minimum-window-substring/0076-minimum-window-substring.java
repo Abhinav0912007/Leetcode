@@ -1,54 +1,38 @@
 public class Solution {
     public String minWindow(String s, String t) {
         if (s.length() == 0 || t.length() == 0) return "";
-
-        // Frequency map for characters in t
-        int[] freq = new int[128];
-        for (char c : t.toCharArray()) {
-            freq[c]++;
+int[] freq = new int[128];
+ for (int i = 0; i < t.length(); i++) {
+            freq[t.charAt(i)]++;
         }
+int low = 0;
+int high = 0;
+int req = t.length();
+int minlen  = Integer.MAX_VALUE;
+int start=0;
 
-        int left = 0, right = 0;
-        int required = t.length();
-        int minLen = Integer.MAX_VALUE;
-        int start = 0;
+while(high<s.length()){
+    char r = s.charAt(high);
 
-        while (right < s.length()) {
-            char r = s.charAt(right);
-
-            // If current character is needed
-            if (freq[r] > 0) {
-                required--;
-            }
-
-            freq[r]--;
-            right++;
-
-            // Try to shrink the window
-            while (required == 0) {
-
-                // Update minimum window
-                if (right - left < minLen) {
-                    minLen = right - left;
-                    start = left;
-                }
-
-                char l = s.charAt(left);
-
-                // Remove left character from window
-                freq[l]++;
-
-                // If it becomes needed again, window is no longer valid
-                if (freq[l] > 0) {
-                    required++;
-                }
-
-                left++;
-            }
+    if(freq[r]>0){
+        req--;
+    }
+    freq[r]--;
+    high++;
+    while(req==0){
+        if(high-low<minlen){
+            minlen = high-low;
+            start = low;
         }
+        char l = s.charAt(low);
+         freq[l]++;
+        if(freq[l]>0){
+            req++;
+        }
+        low++;
+    }
+}
+return minlen == Integer.MAX_VALUE?"":s.substring(start,start+minlen);
 
-        return minLen == Integer.MAX_VALUE
-                ? ""
-                : s.substring(start, start + minLen);
     }
 }
