@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Abhinav0912007/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Abhinav0912007/Leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhinav0912007/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Abhinav0912007/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Abhinav0912007/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Abhinav0912007/Leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhinav0912007/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhinav0912007/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Abhinav0912007/Leetcode/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/Abhinav0912007/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Abhinav0912007/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhinav0912007/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Abhinav0912007/Leetcode/tree/master/0326-power-of-three) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Abhinav0912007/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhinav0912007/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Abhinav0912007/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Abhinav0912007/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Abhinav0912007/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhinav0912007/Leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhinav0912007/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
