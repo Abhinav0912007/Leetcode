@@ -1,40 +1,8 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) {
- *         this.val = val;
- *         this.next = next;
- *     }
- * }
- */
-
 class Solution {
-
-    // Reverse a linked list
-    private ListNode reverse(ListNode head) {
-        ListNode prev = null;
-        ListNode curr = head;
-
-        while (curr != null) {
-            ListNode nextNode = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = nextNode;
-        }
-
-        return prev;
-    }
-
     public void reorderList(ListNode head) {
-        if (head == null || head.next == null) {
-            return;
-        }
+        if (head == null || head.next == null) return;
 
-        // Step 1: Find the middle
+        // Find the middle
         ListNode slow = head;
         ListNode fast = head;
 
@@ -43,25 +11,39 @@ class Solution {
             fast = fast.next.next;
         }
 
-        // Step 2: Split into two linked lists
+        // Reverse second half
         ListNode second = slow.next;
         slow.next = null;
 
-        // Step 3: Reverse the second linked list
-        second = reverse(second);
+        ListNode prev = null;
+        while (second != null) {
+            ListNode next = second.next;
+            second.next = prev;
+            prev = second;
+            second = next;
+        }
 
-        // Step 4: Merge the two linked lists alternately
+        second = prev;
+
+        // Merge using a dummy node
+        ListNode dummy = new ListNode(0);
+        ListNode curr = dummy;
         ListNode first = head;
 
-        while (second != null) {
-            ListNode temp1 = first.next;
-            ListNode temp2 = second.next;
+        while (first != null || second != null) {
+            if (first != null) {
+                curr.next = first;
+                curr = curr.next;
+                first = first.next;
+            }
 
-            first.next = second;
-            second.next = temp1;
-
-            first = temp1;
-            second = temp2;
+            if (second != null) {
+                curr.next = second;
+                curr = curr.next;
+                second = second.next;
+            }
         }
+
+        curr.next = null;
     }
 }
