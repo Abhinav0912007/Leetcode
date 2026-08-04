@@ -1,49 +1,54 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution {
     public void reorderList(ListNode head) {
-        if (head == null || head.next == null) return;
-
-        // Find the middle
+        if(head==null||head.next==null){
+            return;
+        }
         ListNode slow = head;
-        ListNode fast = head;
-
-        while (fast.next != null && fast.next.next != null) {
+        ListNode fast  =head;
+        while(fast!=null&&fast.next!=null){
             slow = slow.next;
             fast = fast.next.next;
+
         }
-
-        // Reverse second half
         ListNode second = slow.next;
-        slow.next = null;
-
+        slow.next=null;
         ListNode prev = null;
-        while (second != null) {
-            ListNode next = second.next;
+        while(second!=null){
+            ListNode temp = second.next;
             second.next = prev;
             prev = second;
-            second = next;
+            second = temp;
         }
-
-        second = prev;
-
-        // Merge using a dummy node
-        ListNode dummy = new ListNode(0);
-        ListNode curr = dummy;
+        second= prev;
         ListNode first = head;
-
-        while (first != null || second != null) {
-            if (first != null) {
+        ListNode dummy = new ListNode(-1);
+        ListNode curr = dummy;
+        while(first!=null || second!=null){
+            if(first!=null){
                 curr.next = first;
-                curr = curr.next;
                 first = first.next;
-            }
-
-            if (second != null) {
-                curr.next = second;
                 curr = curr.next;
-                second = second.next;
+
             }
+            if(second!=null){
+                curr.next = second;
+                second = second.next;
+                curr= curr.next;
+            }
+            curr.next = null;
         }
 
-        curr.next = null;
+
+        
     }
 }
