@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhinav0912007/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Abhinav0912007/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abhinav0912007/Leetcode/tree/master/0342-power-of-four) |
+| [0877-stone-game](https://github.com/Abhinav0912007/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Abhinav0912007/Leetcode/tree/master/1025-divisor-game) |
 ## Array
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abhinav0912007/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Abhinav0912007/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhinav0912007/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0877-stone-game](https://github.com/Abhinav0912007/Leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Abhinav0912007/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhinav0912007/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhinav0912007/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhinav0912007/Leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Abhinav0912007/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/Abhinav0912007/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Abhinav0912007/Leetcode/tree/master/1025-divisor-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Abhinav0912007/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Brainteaser
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Abhinav0912007/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Abhinav0912007/Leetcode/tree/master/1025-divisor-game) |
 ## Sliding Window
 |  |
@@ -191,4 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhinav0912007/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Abhinav0912007/Leetcode/tree/master/0169-majority-element) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Abhinav0912007/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Abhinav0912007/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
