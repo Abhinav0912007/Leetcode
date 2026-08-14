@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Abhinav0912007/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Abhinav0912007/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Abhinav0912007/Leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Abhinav0912007/Leetcode/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhinav0912007/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhinav0912007/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/Abhinav0912007/Leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhinav0912007/Leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Abhinav0912007/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/Abhinav0912007/Leetcode/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Abhinav0912007/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Abhinav0912007/Leetcode/tree/master/1025-divisor-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Abhinav0912007/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinav0912007/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Abhinav0912007/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Abhinav0912007/Leetcode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Abhinav0912007/Leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhinav0912007/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhinav0912007/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Greedy
