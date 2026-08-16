@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Abhinav0912007/Leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhinav0912007/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhinav0912007/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0796-rotate-string](https://github.com/Abhinav0912007/Leetcode/tree/master/0796-rotate-string) |
 ## Greedy
 |  |
 | ------- |
@@ -207,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Abhinav0912007/Leetcode/tree/master/0877-stone-game) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Abhinav0912007/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
