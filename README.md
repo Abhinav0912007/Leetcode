@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhinav0912007/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Abhinav0912007/Leetcode/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/Abhinav0912007/Leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Abhinav0912007/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Abhinav0912007/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhinav0912007/Leetcode/tree/master/0268-missing-number) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhinav0912007/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhinav0912007/Leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Abhinav0912007/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Abhinav0912007/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Abhinav0912007/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhinav0912007/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/Abhinav0912007/Leetcode/tree/master/0152-maximum-product-subarray) |
