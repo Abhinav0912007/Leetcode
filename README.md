@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Abhinav0912007/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhinav0912007/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/Abhinav0912007/Leetcode/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/Abhinav0912007/Leetcode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Abhinav0912007/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhinav0912007/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhinav0912007/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
