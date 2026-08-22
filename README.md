@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Abhinav0912007/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhinav0912007/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/Abhinav0912007/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Abhinav0912007/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Abhinav0912007/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Abhinav0912007/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhinav0912007/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhinav0912007/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Abhinav0912007/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## String
 |  |
 | ------- |
